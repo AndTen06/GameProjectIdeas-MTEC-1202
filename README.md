@@ -1,5 +1,6 @@
 # GameProjectIdeas-MTEC-1202
 ﻿1st(Game Project). 2D Platformer
+ 
    1a. Yes
    2b. Keyboard
    3c. reaching the end goal
